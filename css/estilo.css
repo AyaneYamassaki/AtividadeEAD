@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Annie+Use+Your+Telescope&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap');
+.mt-n5 {
+    margin-top: -3rem;
+}
+
+.subJumbo {
+    position: absolute;
+    font-family: 'Sacramento', cursive;
+    font-size: 2em;
+    z-index: 100;
+    margin: 18% 36%;
+    width: 40%;
+    font-weight: 900;
+}
+
+a.gflag {
+    vertical-align: middle;
+    font-size: 1em;
+    padding: 1px 0;
+    background-repeat: no-repeat;
+}
+
+a.gflag img {
+    border: 0;
+}
+
+a.gflag:hover {
+    background-image: url(//gtranslate.net/flags/32a.png);
+}
+
+#goog-gt-tt {
+    display: none !important;
+}
+
+.goog-te-banner-frame {
+    display: none !important;
+}
+
+.goog-te-menu-value:hover {
+    text-decoration: none !important;
+}
+
+#google_translate_element2 {
+    display: none!important;
+}
+
+.bg-nav {
+    background-image: linear-gradient(#E8EAF6, #E3F2FD);
+    font-family: 'Annie Use Your Telescope', cursive;
+}
+
+.bg-mobile {
+    background-image: linear-gradient(to bottom left, #4FC3F7, #BBDEFB);
+}
+
+.computer {
+    background: url("../img/jumbontron.jpg");
+    background-size: cover;
+    height: 432px;
+    opacity: 0.3;
+}
+
+#icone {
+    position: absolute;
+    left: 34.5%;
+    top: 3%;
+    z-index: 99;
+}
+
+.textinho {
+    margin-left: 13%;
+    -webkit-text-stroke-color: #636262;
+    -webkit-text-stroke-width: 1.5px;
+}
+
+p {
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.minitexto {
+    z-index: 99;
+    margin-bottom: -3rem;
+    position: absolute;
+    text-shadow: 1px 2px 2px black;
+    border-bottom: #ffffff 2px inset;
+}
+
+.conjunto {
+    width: 80%;
+    margin: 2% 10% 0% 10%;
+}
+
+.titulo-img {
+    margin-top: -8rem;
+    width: 55%;
+    color: #ecf0f1;
+    text-shadow: 2px 2px 2px black;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.fotos {
+    height: 165px;
+    width: 100%;
+}
+
+.bg-footer {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    background-image: linear-gradient(#E8EAF6, #E3F2FD);
+    -webkit-text-stroke-color: #636262;
+    -webkit-text-stroke-width: 0.3px;
+    color: #808e9b;
+}
+
+footer p {
+    margin-bottom: .25rem;
+}
